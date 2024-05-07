@@ -1,4 +1,4 @@
-## Leeds School of Mathematics PGR Organisation
+## [Leeds School of Mathematics PGR Organisation](https://leeds-maths-pgr.github.io/)
 
 This is the organisation for postgraduate researchers at the University of Leeds parented by the School of Mathematics.
 Various repositories for PGR specific projects are kept here.
